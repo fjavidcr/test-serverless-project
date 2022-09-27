@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "test-serverless-project",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjavidcr/test-serverless-project.git"
+  },
+  "author": "Javier del Castillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fjavidcr/test-serverless-project/issues"
+  },
+  "homepage": "https://github.com/fjavidcr/test-serverless-project#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
