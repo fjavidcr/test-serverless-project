@@ -19,6 +19,6 @@
   "homepage": "https://github.com/fjavidcr/test-serverless-project#readme",
   "devDependencies": {},
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.7"
   }
 }
